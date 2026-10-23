@@ -1,7 +1,7 @@
-site_name: __NAME__
-site_description: __DESCRIPTION__
-site_url: __SITE_URL__
-repo_url: __REPO_URL__
+site_name: ModTemplateTest
+site_description: Test Repository created using the ModTemplate for Chivalry 2 Unchained (https://github.com/Knutschbert/ModTemplate)
+site_url: https://Knutschbert.github.io/ModTemplateTest/
+repo_url: https://github.com/Knutschbert/ModTemplateTest
 edit_uri: edit/main/docs/
 
 

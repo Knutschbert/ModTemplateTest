@@ -1,9 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/Chiv2-Community/zero-infra-mod-registry/v1/schemas/mod.schema.json",
-  "name": "__NAME__",
-  "description": "__DESCRIPTION__",
+  "name": "ModTemplateTest",
+  "description": "Test Repository created using the ModTemplate for Chivalry 2 Unchained (https://github.com/Knutschbert/ModTemplate)",
   "authors": [
-    "__OWNER__"
+    "Knutschbert"
   ],
   "icon_url": null,
   "image_urls": [],
